@@ -74,3 +74,5 @@ If you need more images, please contact the [support team](https://abims-sbr.git
 ## Databanks
 
 A local copy of several genomes are available in `/shared/bank/` directory.
+
+CI selection test.
